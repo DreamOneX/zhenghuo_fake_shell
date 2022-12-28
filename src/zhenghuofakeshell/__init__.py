@@ -6,7 +6,7 @@ import os
 import signal
 import random
 
-PASSWORD = "password"
+PASSWORD = "password" # 孩子，你是相信命运之神，还是相信流控制？
 PS1 = "[root@archlinux] $"
 
 
